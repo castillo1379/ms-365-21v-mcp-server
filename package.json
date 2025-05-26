@@ -1,6 +1,6 @@
 {
   "name": "ms-365-21v-mcp-server",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "MCP gateway for Microsoft 365 operated by 21Vianet \u2014 let AI clients use your 21V M365 mail, calendar, OneDrive & SharePoint",
   "main": "src/index.ts",
   "scripts": {
